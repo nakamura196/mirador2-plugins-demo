@@ -1,0 +1,6 @@
+[submodule "mirador-sync-windows"]
+    path = mirador-sync-windows
+    url = https://github.com/UCLALibrary/mirador-sync-windows.git
+[submodule "mirador-disable-zoom"]
+	path = mirador-disable-zoom
+	url = https://github.com/UCLALibrary/mirador-disable-zoom.git
